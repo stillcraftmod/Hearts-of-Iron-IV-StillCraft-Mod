@@ -1,0 +1,84 @@
+ZZZ = {
+    color = rgb { 0 0 0 }
+    color_ui = rgb { 0 0 0 }
+}
+
+MRT = {
+    color = rgb { 0 153 0 }
+    color_ui = rgb { 0 153 0 }
+}
+
+KLR = {
+    color = rgb { 32 32 32 }
+    color_ui = rgb { 32 32 32 }
+}
+
+CRN = {
+    color = rgb { 64 64 64 }
+    color_ui = rgb { 64 64 64 }
+}
+
+NTY = {
+    color = rgb { 255 51 51 }
+    color_ui = rgb { 255 51 51 }
+}
+
+KCB = {
+    color = rgb { 0 153 153 }
+    color_ui = rgb { 0 153 153 }
+}
+
+WMT = {
+    color = rgb { 0 128 255}
+    color_ui = rgb { 0 128 255 }
+}
+
+IWL = {
+    color = rgb { 255 128 0 }
+    color_ui = rgb { 255 128 0 }
+}
+
+KRL = {
+    color = rgb { 0 102 204 }
+    color_ui = rgb { 0 102 204 }
+}
+
+CNB = {
+    color = rgb { 153 255 255 }
+    color_ui = rgb { 153 255 255 }
+}
+
+HMB = {
+    color = rgb { 255 255 204 }
+    color_ui = rgb { 255 255 204 }
+}
+
+WTN = {
+    color = rgb { 255 255 51 }
+    color_ui = rgb { 255 255 51 }
+}
+
+RLM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+
+LPL = {
+    color = rgb { 255 153 51 }
+    color_ui = rgb { 255 153 51 }
+}
+
+AAL = {
+    color = rgb { 0 76 153 }
+    color_ui = rgb { 0 76 153 }
+}
+
+NCT = {
+    color = rgb { 0 102 204 }
+    color_ui = rgb { 0 102 204 }
+}
+
+LTS = {
+    color = rgb { 51 153 255 }
+    color_ui = rgb { 51 153 255 }
+}

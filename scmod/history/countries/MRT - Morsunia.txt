@@ -1,0 +1,59 @@
+capital = 0
+
+OOB = "MRT_2016"
+
+set_technology = {
+    infantry_weapons = 1
+    tech_support = 1
+    tech_recon = 1
+}
+
+set_politics = {
+
+    parties = {
+        democratic = {
+            popularity = 73
+        }
+
+        fascism = {
+            popularity = 2
+        }
+
+        communism = {
+            popularity = 5
+        }
+
+        neutrality = {
+            popularity = 20
+        }
+    }
+
+    ruling_party = democratic
+    last_election = "2016.1.21"
+    election_frequency = 48
+    election_allowed = yes
+}
+
+set_convoys = 32
+
+create_country_leader = {
+    name = "Polaczekk"
+    desc = "POLITICS_POLACZEKK_DESC"
+    picture = "gfx/leaders/MRT/Polaczekk.dds"
+    expire = "2050.1.1"
+    ideology = socialism
+    traits = {
+        #
+    }
+}
+
+create_field_marshal = {
+    name = "Szop"
+    portrait_path = "gfx/leaders/MRT/Szop.dds"
+    traits = { }
+    skill = 2
+    attack_skill = 3
+    defense_skill = 1
+    planning_skill = 1
+    logistics_skill = 1
+}

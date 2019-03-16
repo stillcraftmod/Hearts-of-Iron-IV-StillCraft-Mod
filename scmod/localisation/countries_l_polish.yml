@@ -1,0 +1,28 @@
+l_polish:
+ ZZZ_neutrality:0 "Strefa graczy"
+ ZZZ_democratic:0 "Strefa graczy"
+ ZZZ_communism:0 "Strefa graczy"
+ ZZZ_fascism:0 "Strefa graczy"
+ ZZZ_neutrality_ADJ:0 "neutral."
+ ZZZ_democratic_ADJ:0 "neutral."
+ ZZZ_communism_ADJ:0 "neutral."
+ ZZZ_fascism_ADJ:0 "neutral."
+
+ MRT_neutrality:0 "Królestwo Morsowe"
+ MRT_democratic:0 "Związek Morsowy"
+ MRT_communism:0 "Morsunia"
+ MRT_fascism:0 "Nacjonalistyczna Morsunia"
+ MRT_neutrality_ADJ:0 "morsuń."
+ MRT_democratic_ADJ:0 "morsuń."
+ MRT_communism_ADJ:0 "morsuń."
+ MRT_fascism_ADJ:0 "morsuń."
+
+
+ KLR_neutrality:0 "Księstwo Les Revoires"
+ KLR_democratic:0 "Republika Les Revoires"
+ KLR_communism:0 "Republika Ludowa Les Revoires"
+ KLR_fascism:0 "Imperium Les Revoires"
+ KLR_neutrality_ADJ:0 ""
+ KLR_democratic_ADJ:0 ""
+ KLR_communism_ADJ:0 ""
+ KLR_fascism_ADJ:0 ""
