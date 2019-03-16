@@ -1,0 +1,48 @@
+capital = 44
+
+OOB = "NTY_2016"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 75
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 12
+		}
+		
+		neutrality = { 
+			popularity = 34
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "2016.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "JakeTheGamer"
+	desc = "POLITICS_JAKE_DESC"
+	picture = "JakeTheGamer.dds"
+	expire = "2050.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}

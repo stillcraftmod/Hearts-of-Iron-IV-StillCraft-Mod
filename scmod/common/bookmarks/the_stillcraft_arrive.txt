@@ -1,0 +1,57 @@
+bookmarks = {
+    bookmark = {
+        name = "STILLCRAFT_ARRIVE_NAME"
+        desc = "STILLCRAFT_ARRIVE_DESC"
+        date = 2016.1.1.12
+        picture = "GFX_select_date_2016"
+        default_country = "KLR"
+        default = yes
+
+        "MRT" = {
+            history = "MRT_STILLCRAFT_ARRIVE_DESC"
+            ideology = democratic
+            ideas = { }
+            focuses = { }
+        }
+        "KLR" = {
+            history = "KLR_STILLCRAFT_ARRIVE_DESC"
+            ideology = democratic
+            ideas = { }
+            focuses = { }
+        }
+        "IWL" = {
+            history = "IWL_STILLCRAFT_ARRIVE_DESC"
+            ideology = neutrality
+            ideas = { }
+            focuses = { }
+        }
+        "WMT" = {
+            history = "WMT_STILLCRAFT_ARRIVE_DESC"
+            ideology = neutrality
+            ideas = { }
+            focuses = { }
+        }
+        "KCB" = {
+            history = "KCB_STILLCRAFT_ARRIVE_DESC"
+            ideology = neutrality
+            ideas = { }
+            focuses = { }
+        }
+        "NTY" = {
+            history = "NTY_STILLCRAFT_ARRIVE_DESC"
+            ideology = neutrality
+            ideas = { }
+            focuses = { }
+        }
+        "WTN" = {
+            history = "WTN_STILLCRAFT_ARRIVE_DESC"
+            ideology = neutrality
+            ideas = { }
+            focuses = { }
+        }
+
+        effect = {
+            randomize_weather = 22345
+        }
+    }
+}

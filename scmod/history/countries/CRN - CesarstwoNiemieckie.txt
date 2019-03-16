@@ -1,0 +1,60 @@
+capital = 44
+
+OOB = "CRN_2016"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 23
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 12
+		}
+		
+		neutrality = { 
+			popularity = 63
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "2017.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "Danieczek"
+	desc = "POLITICS_DANIECZEK_DESC"
+	picture = "Danieczek.dds"
+	expire = "2050.1.1"
+	ideology = moderatism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Kubix03"
+	portrait_path = "gfx/leaders/CRN/Kubix03.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+
