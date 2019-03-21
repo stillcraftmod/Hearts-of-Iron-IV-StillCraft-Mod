@@ -12,23 +12,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 75
+			popularity = 23
 		}
 
 		fascism = {
-			popularity = 0
+			popularity = 65
 		}
 		
 		communism = {
-			popularity = 12
+			popularity = 3
 		}
 		
 		neutrality = { 
-			popularity = 34
+			popularity = 8
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = fascism
 	last_election = "2016.3.5"
 	election_frequency = 48
 	elections_allowed = yes
@@ -41,7 +41,7 @@ create_country_leader = {
 	desc = "POLITICS_FELLER_DESC"
 	picture = "Crafterfeller.dds"
 	expire = "2050.1.1"
-	ideology = liberalism
+	ideology = fascism_ideology
 	traits = {
 		#
 	}

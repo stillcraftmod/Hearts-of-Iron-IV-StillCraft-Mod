@@ -1,6 +1,6 @@
 ZZZ = "countries/ZZZ.txt"
 
-MRT = "countries/Morsunia.txt"
+MRS = "countries/Morsunia.txt"
 KLR = "countries/LesRevoires.txt"
 CRN = "countries/CesarstwoNiemieckie.txt"
 NTY = "countries/NewTokyo.txt"

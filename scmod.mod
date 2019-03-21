@@ -1,7 +1,9 @@
 ﻿name="StillCraft Modification"
 path="mod/scmod/"
 replace_path="history/countries"
-replace_path="localisation/countries_l_polish.yml"
+replace_path="common/country_tags"
+replace_path="common/countries"
+replace_path="gfx/loadingscreens"
 tags={
 	"Alternative History"
 	"Events"

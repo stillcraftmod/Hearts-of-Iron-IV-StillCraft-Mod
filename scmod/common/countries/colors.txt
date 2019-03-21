@@ -3,7 +3,7 @@ ZZZ = {
     color_ui = rgb { 0 0 0 }
 }
 
-MRT = {
+MRS = {
     color = rgb { 0 153 0 }
     color_ui = rgb { 0 153 0 }
 }

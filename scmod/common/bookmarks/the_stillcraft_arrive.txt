@@ -7,8 +7,8 @@ bookmarks = {
         default_country = "KLR"
         default = yes
 
-        "MRT" = {
-            history = "MRT_STILLCRAFT_ARRIVE_DESC"
+        "MRS" = {
+            history = "MRS_STILLCRAFT_ARRIVE_DESC"
             ideology = democratic
             ideas = { }
             focuses = { }
@@ -49,6 +49,10 @@ bookmarks = {
             ideas = { }
             focuses = { }
         }
+
+        "---" = {
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
 
         effect = {
             randomize_weather = 22345
